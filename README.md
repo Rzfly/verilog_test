@@ -21,8 +21,8 @@ c) 当valid和slave同时为高时，表示data信号从master到slave发送接�
 
 sim0 调用 tx rx。
 
-sim0 调用 tx rx2。
+sim1 调用 tx rx2。
 
-sim0 调用 tx2 rx。
+sim2 调用 tx2 rx。
 
-sim0 调用 tx3 rx3。
+sim3 调用 tx3 rx3。
